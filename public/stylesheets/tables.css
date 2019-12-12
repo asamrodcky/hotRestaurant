@@ -1,0 +1,35 @@
+.tables-page-container {
+    margin: 20px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+/* Table List Card */
+
+.table-list-container {
+    margin: 20px;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.table-list-title{
+    padding: 20px;
+    margin-left: 20px;
+}
+
+/* Waitlist Card */
+
+.waitlist-container {
+    margin: 20px;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.waitlist-title{
+    padding: 20px;
+    margin-left: 20px;
+}
