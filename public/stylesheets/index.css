@@ -1,8 +1,12 @@
 .jumbotron {
     background-color: rgb(255, 0, 0);
-    background-color: red;
+    background-color:  red  !important;
     text-align: center;
 }
 
+
+.lead{
+    color: white;
+}
 
 
